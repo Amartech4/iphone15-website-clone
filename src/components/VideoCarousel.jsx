@@ -6,6 +6,8 @@ import { useEffect, useRef, useState } from "react";
 
 import { hightlightsSlides } from "../constants";
 import { pauseImg, playImg, replayImg } from "../utils";
+
+
 function VideoCarousel() {
     const videoRef = useRef([]);
     const videoSpanRef = useRef([]);
@@ -198,6 +200,8 @@ function VideoCarousel() {
                 </span>
             ))}
         </div>
+         
+
 
         <button className='control-btn'>
             <img src={isLastVideo ? replayImg : isPlaying ? playImg : pauseImg} alt={isLastVideo ? 'replay' : !isPlaying ? 'play' : 'pause'} 

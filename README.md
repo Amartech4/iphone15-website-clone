@@ -1,4 +1,5 @@
 Recreated the Apple iPhone 15 Pro website using vite react, combining GSAP animations and Three.js 3D effects. From custom animations to animated 3D models. 
+
 Additionally, Sentry is integrated to monitor performance, track user engagement, analyze click-through rates, and capture detailed error reports. Thanks to Sentry’s insights, the site is optimized for performance, ensuring a seamless experience that attracts and retains visitors.
 
 

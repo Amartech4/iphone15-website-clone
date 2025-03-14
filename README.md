@@ -1,3 +1,10 @@
+Recreated the Apple iPhone 15 Pro website using vite react, combining GSAP animations and Three.js 3D effects. From custom animations to animated 3D models. 
+Using also sentry which analyzes the website to improve performance, counts clickthrough rate, engagement, visitors, including catching errors in details to easily fix it.
+Thanks to sentry this website performs really well and is able to attract good number of visitors including keeping them engaged.
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
